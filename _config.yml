@@ -11,10 +11,7 @@ helpers:
 start_times:
   - 09|00
   - Br|as
-setup_files:
-  - videoconferencing
-  - editor
-  - r
+setup_files: []
 language: pt
 venue: Labnec-CFS-CCB-UFSC
 address: Online
